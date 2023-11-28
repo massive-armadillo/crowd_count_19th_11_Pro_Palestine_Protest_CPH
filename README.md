@@ -31,14 +31,14 @@
 
 * People density (people/m^2) *		
 
-|density_type| replicate_a |replicate_b |
-|density_lowest | 0,8465 |	0,8580	|
-| density_low|  0,9746	| 0,8998 |
+| density_type | replicate_a |replicate_b |
+| density_lowest | 0,8465 |	0,8580	|
+| density_low |  0,9746	| 0,8998 |
 | density_mid |  1,0394	| 1,0719 |
-| density_high    |1,1553	| 1,5508 |	
+| density_high  | 1,1553	| 1,5508 |	
 | density_highest | 1,3845 |	1,4465	|
-| mean:  | 1.11| 1.23| 
-| std: | 0.19 | 0.28|
+| mean:  | 1.11| 1.23 | 
+| std: | 0.19 | 0.28    |
 
 
 ## 
