@@ -18,7 +18,8 @@
 ## counting people
 
 * We used  [DotDotGoose](https://biodiversityinformatics.amnh.org/open_source/dotdotgoose/). DotDotGoose is a free, open source tool to assist with manually counting objects in images.
-* The images used to assess density are manually labeled, assisted via a regular [CNN model for object recognition](https://www.kaggle.com/code/grayphantom/counting-people-yolov3-gluoncv)
+* The images used to assess density are manually labeled, assisted via a regular [CNN model for object recognition](https://www.kaggle.com/code/grayphantom/counting-people-yolov3-gluoncv).
+* Every image is human verified, and is available in this repo.
 
 ## density estimates and assumptions
 
