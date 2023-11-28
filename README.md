@@ -12,7 +12,7 @@ Support information is shown in the dir .../circumstantial_evidence.
 
 ## Results
 
-The estimate following the above-mentioned method gives: 38100 +- 5000 people were filmed during the protest on the 19th November 2023.
+The estimate following the above-mentioned method gives: 37700 +- 5000 people were filmed during the protest on the 19th November 2023.
 
 This is the estimate of people filmed in the UAV-footage during the time period 15:51 to 16:00.
 
