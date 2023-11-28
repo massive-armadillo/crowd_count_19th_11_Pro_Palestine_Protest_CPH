@@ -44,8 +44,9 @@
 
 ## 
 
-* The people we report of are shown in the footage material (dir ..**/screenshots_footage_**). The timestamp of each screenshot is also included.
+* The people reported are shown in the footage material (dir ..**/screenshots_footage_**). The timestamp of each screenshot is also included.
 
-  ## Other crowds joining the protest are not filmed
-* Additionally, other protesters attended directly Slotspladsen (Christiansborg palace), at the time of the footage (dir ..**/circumstantial_evidence**). These are not included in our estimate, neither the ones joining the march at any point after 15:53. 
+  ## Other crowds joining the protest are not filmed and therefore not included in our estimate.
+* Additionally, other protesters attended directly Slotspladsen (Christiansborg palace), at the time of the footage (dir ..**/circumstantial_evidence**). These are not included in our estimate, neither the ones joining the march at any point after 15:53.
+* This lends to think that the true number is higher than the one estimated via the Jacob's method.
 
