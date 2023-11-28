@@ -29,7 +29,7 @@
   * statistically independent---they are taken at different locations and points in time.
   * Gaussian distributed around its mean (1.2 +- 0.2 people/m^2).
 
-* People density (people/m^2) *		
+* People density (people/m^2)* : we calculated densities in 2 different replicates (a,b) per density type. More information is given in dir ../		
 
 | density_type | replicate_a |replicate_b |
 | :---------------- | :------: |  :------: |
