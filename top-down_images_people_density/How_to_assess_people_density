@@ -1,0 +1,24 @@
+
+- First, following Jacob's method [1], we recognized areas with characteristically different people density. 
+
+- We ranked these areas from 1 (ca. 0.85 persons/m$^2$) to 5 (ca. 1.40 persons/m$^2$).
+
+- Then, we assessed the extension of the entire area of the march filmed during the footage (15:51-16:00).
+      
+- Each area of the march was given a category of people density (from 1 to 5), based on footage. 
+      - 2 replicates were done to estimate each density class (types a and b for each density category).
+      
+- Finally, the density estimates were extrapolated to the area of the entire march.
+
+
+
+[1]: 
+@article{choi2015up,
+  title={Up in the air: applying the Jacobs crowd formula to drone imagery},
+  author={Choi-Fitzpatrick, Austin and Juskauskas, Tautvydas},
+  journal={Procedia Engineering},
+  volume={107},
+  pages={273--281},
+  year={2015},
+  publisher={Elsevier}
+}
