@@ -3,7 +3,7 @@
 
 ![density_4_b_732pp](https://github.com/massive-armadillo/crowd_count_19th_11_Pro_Palestine_Protest_CPH/assets/152223843/17431828-af11-4587-b868-fcd2008f4e38)
 
-Due to large disagreemts in the published estimates of the crowd count of the protest of 19th 11 2023 in Copenhagen (DK), we have put effort in securing an objective estimate. The imagery and methodolgy used are publicly available in this repository.
+Due to large disagreemts in the published estimates of the crowd count of the protest of 19th 11 2023 in Copenhagen (DK), we have put effort in securing an objective estimate. The imagery and methodolgy used are publicly available in this repository. Based on the evidence provided, the results show that **37700 +- 5000 people** are documented.
 
 ## Assessment of the amount of protesters joining the march on 19th Nov 2023, in Copenhagen (Denmark).
 
