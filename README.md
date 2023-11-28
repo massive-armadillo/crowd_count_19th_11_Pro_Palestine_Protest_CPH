@@ -5,7 +5,7 @@
 
 * We estimated crowd density based on orthoimages (i.e. strictly top-down viewpoint) from UAV and the [Jacob's method](https://www.sciencedirect.com/science/article/pii/S1877705815010358). The images used to assess density are shown in dir ../**top-down_images_people_density**).
 * Then, we applied the estimated crowd densities to each polygon constituting the march---during the time period 15:51 to 16:00.
-* This is the surface shown in the image file **Area_filmed_protest_1551.PNG**.
+* The polygons add up to the surface shown in the image file **Area_filmed_protest_1551.PNG**: 30500 m^2.
 
 * Support information is shown in the dir .../**circumstantial_evidence**.
 
