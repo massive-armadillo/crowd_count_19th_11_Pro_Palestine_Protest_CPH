@@ -21,4 +21,8 @@ This is the estimate of people filmed in the UAV-footage during the time period 
 We used  [DotDotGoose](https://biodiversityinformatics.amnh.org/open_source/dotdotgoose/).
 DotDotGoose is a free, open source tool to assist with manually counting objects in images.
 
+## density estimates and assumptions
+1- We evaluated the density at 10 different locations based on top-down UAV-footage.
+2- We asusmed the densities to be Gaussian distributed around its mean (1.2 +- 0.2 people/m^2)
+
 
