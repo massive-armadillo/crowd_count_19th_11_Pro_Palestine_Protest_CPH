@@ -1,7 +1,7 @@
 # Crowd count
 
 
-<img src="[https://your-image-url.type](https://github.com/massive-armadillo/crowd_count_19th_11_Pro_Palestine_Protest_CPH/assets/152223843/e7b118f9-1d1a-49b5-b4d1-fa8a918ead13)" width="50" height="50">
+<img src="[https://your-image-url.type](https://github.com/massive-armadillo/crowd_count_19th_11_Pro_Palestine_Protest_CPH/assets/152223843/e7b118f9-1d1a-49b5-b4d1-fa8a918ead13)" width="90" height="90">
 
 ## Assessment of the amount of protesters joining the march on 19th Nov 2023, in Copenhagen (Denmark).
 
