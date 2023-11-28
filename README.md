@@ -44,6 +44,6 @@
 
 ## 
 
-* The amount of people we report of are shown in the footage material (dir ..**/circumstantial_evidence**). 
+* The people we report of are shown in the footage material (dir ..**/screenshots_footage_**). The timestamps of each screenshot is also included.
 * Additionally, other protesters attended directly Slotspladsen (Christiansborg palace), at the time of the footage (dir ..**/circumstantial_evidence**). These are not included in our estimate, neither the ones joining the march at any point after 16:00. 
 
