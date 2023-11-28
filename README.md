@@ -1,12 +1,14 @@
 # Crowd count
 
-![density_1_b_780pp](https://github.com/massive-armadillo/crowd_count_19th_11_Pro_Palestine_Protest_CPH/assets/152223843/e7b118f9-1d1a-49b5-b4d1-fa8a918ead13)
+
+<img src="[https://your-image-url.type](https://github.com/massive-armadillo/crowd_count_19th_11_Pro_Palestine_Protest_CPH/assets/152223843/e7b118f9-1d1a-49b5-b4d1-fa8a918ead13)" width="100" height="100">
 
 ## Assessment of the amount of protesters joining the march on 19th Nov 2023, in Copenhagen (Denmark).
 
 ## Method: Jacob's method applied to UAV imagery
 
-* We estimated crowd density based on orthoimages (i.e. strictly top-down viewpoint) from UAV and the [Jacob's method](https://www.sciencedirect.com/science/article/pii/S1877705815010358). The images used to assess density are shown in dir ../**top-down_images_people_density**).
+* We estimated crowd density based on orthoimages (i.e. strictly top-down viewpoint) from UAV and the [Jacob's method](https://www.sciencedirect.com/science/article/pii/S1877705815010358).
+* The images used to assess density are shown in dir ../**top-down_images_people_density**).
 * Then, we applied the estimated crowd densities to each polygon constituting the march---during the time period 15:51 to 15:53.
 * The polygons add up to the surface shown in the image file **Area_filmed_protest_1551.PNG**: 30500 m^2.
 
@@ -32,7 +34,7 @@
   * statistically independent---they are taken at different locations and points in time.
   * Gaussian distributed around its mean (1.2 +- 0.2 people/m^2).
 
-  **People density (people/m^2)** : we calculated densities in 2 different replicates (a,b) per density type. More information is given in dir ../**top-down_images_people_density**		
+ *  **People density (people/m^2)** : we calculated densities in 2 different replicates (a,b) per density type. More information is given in dir ../**top-down_images_people_density**		
 
 | density_type | replicate_a |replicate_b |
 | :---------------- | :------: |  :------: |
