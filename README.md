@@ -1,21 +1,24 @@
 # Assessment of protesters joining the march on 19th Nov 2023, in Copenhagen (Denmark).
 
-###
+## Method: Jacob's method applied to UAV imagery
+
+We estimated crowd density based on orthoimages (i.e. top-down viewpoint) from UAV and Jacob's metho. These are the images shown in section 1).
+
+Then, we applied the estimated crowd densities to each polygon constituting the march---during the time period 15:51 to 16:00.
+This is the surface shown in the image file Area_filmed_protest_1551.PNG.
+
+Support information is shown in the dir .../circumstantial_evidence.
 
 
+## Results
 
-Method: Jacob's method applied to UAV imagery
+The estimate following the above-mentioned method gives: 38100 +- 5000 people were filmed during the protest on the 19th November 2023.
 
+This is the estimate of people filmed in the UAV-footage during the time period 15:51 to 16:00.
 
-We estimated crowd density based on orthoimages (i.e. nadir viewpoint) from UAV and Jacob's method~\cite{choi2015up} these are the images shown in section 1).
+## counting people
 
-Then, we applied the estimated crowd densities to each polygon constituting the march---during the time period 15:51 to 16:00 (this is the surface shown in dir/ ...).
+We used  [DotDotGoose]([https://link-url-here.org](https://biodiversityinformatics.amnh.org/open_source/dotdotgoose/)https://biodiversityinformatics.amnh.org/open_source/dotdotgoose/).
+DotDotGoose is a free, open source tool to assist with manually counting objects in images.
 
-
-\section{Results}
-
-\begin{itemize}
-    \item A first estimate following the above-mentioned method gives: 37654 $\pm$ 8545 people attended the protest on the 19th November 2023. 
-    \item This is the estimate of people filmed in the UAV-footage during the time period 12:49 to 12:59.
-\end{itemize}
 
