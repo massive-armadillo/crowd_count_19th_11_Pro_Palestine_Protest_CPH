@@ -1,4 +1,5 @@
-# Assessment of protesters joining the march on 19th Nov 2023, in Copenhagen (Denmark).
+# Crowd count
+## Assessment of protesters joining the march on 19th Nov 2023, in Copenhagen (Denmark).
 
 ## Method: Jacob's method applied to UAV imagery
 
