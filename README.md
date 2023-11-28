@@ -3,7 +3,7 @@
 
 ## Method: Jacob's method applied to UAV imagery
 
-* We estimated crowd density based on orthoimages (i.e. strictly top-down viewpoint) from UAV and the [Jacob's method](https://www.sciencedirect.com/science/article/pii/S1877705815010358). These are the images shown in dir ../**top-down_images_people_density**).
+* We estimated crowd density based on orthoimages (i.e. strictly top-down viewpoint) from UAV and the [Jacob's method](https://www.sciencedirect.com/science/article/pii/S1877705815010358). The images used to assess density are shown in dir ../**top-down_images_people_density**).
 * Then, we applied the estimated crowd densities to each polygon constituting the march---during the time period 15:51 to 16:00.
 * This is the surface shown in the image file **Area_filmed_protest_1551.PNG**.
 
