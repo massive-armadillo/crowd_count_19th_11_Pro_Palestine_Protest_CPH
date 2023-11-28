@@ -18,7 +18,7 @@ This is the estimate of people filmed in the UAV-footage during the time period 
 
 ## counting people
 
-We used  [DotDotGoose]([https://link-url-here.org](https://biodiversityinformatics.amnh.org/open_source/dotdotgoose/)https://biodiversityinformatics.amnh.org/open_source/dotdotgoose/).
+We used  [DotDotGoose][https://biodiversityinformatics.amnh.org/open_source/dotdotgoose/].
 DotDotGoose is a free, open source tool to assist with manually counting objects in images.
 
 
