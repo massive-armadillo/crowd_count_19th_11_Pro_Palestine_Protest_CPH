@@ -11,6 +11,16 @@
 - Finally, the density estimates were extrapolated to the area of the entire march.
 
 
+						
+People density (people/m^2)						
+ORTHOIMAGES	a	       b	
+density_1	0,846560847	0,858085809				
+density_2	0,974652183	0,899825102	
+density_3	1,039492243	1,071932299				
+density_4	1,155309033	1,550847458				
+density_5	1,384518565	1,446559297				
+
+
 
 [1]: 
 @article{choi2015up,
