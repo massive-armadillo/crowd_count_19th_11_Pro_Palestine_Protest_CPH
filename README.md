@@ -26,8 +26,8 @@
 * We evaluated the density at 10 different locations based on top-down UAV-footage.
 
 * We asusmed the densities estimated are:
-**  statistically independent
-**  Gaussian distributed around its mean (1.2 +- 0.2 people/m^2).
+  *statistically independent--- sine they are taken at different locations and points in time.
+  *Gaussian distributed around its mean (1.2 +- 0.2 people/m^2).
 
 ## 
 
