@@ -6,7 +6,7 @@ screenshot_1:
 
 00:00:00,040 --> 00:00:00,080
 <font size="28">FrameCnt: 2, DiffTime: 40ms
-2023-11-19 15:49:17.825
+2023-11-19 15:51:17.825
 [iso: 800] [shutter: 1/50.0] [fnum: 4.0] [ev: 0.7] [ct: 7500] [color_md : d_log] [focal_len: 24.00] [latitude: 55.67255] [longitude: 12.55510] [rel_alt: 69.900 abs_alt: 163.812] </font>
 
 screenshot_2:
