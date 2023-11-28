@@ -1,5 +1,8 @@
 # Crowd count
-## Assessment of protesters joining the march on 19th Nov 2023, in Copenhagen (Denmark).
+
+![density_1_b_780pp](https://github.com/massive-armadillo/crowd_count_19th_11_Pro_Palestine_Protest_CPH/assets/152223843/e7b118f9-1d1a-49b5-b4d1-fa8a918ead13)
+
+## Assessment of the amount of protesters joining the march on 19th Nov 2023, in Copenhagen (Denmark).
 
 ## Method: Jacob's method applied to UAV imagery
 
