@@ -29,6 +29,19 @@
   * statistically independent---they are taken at different locations and points in time.
   * Gaussian distributed around its mean (1.2 +- 0.2 people/m^2).
 
+People density (people/m^2)		
+
+density_type		a	       b
+
+density_1	0,846560847	0,858085809				
+density_2	0,974652183	0,899825102	
+density_3	1,039492243	1,071932299				
+density_4	1,155309033	1,550847458				
+density_5	1,384518565	1,446559297				
+
+mean: 1,2   ;    std: 0,2
+
+
 ## 
 
 * The amount of people we report of are shown in the footage material (dir ..**/circumstantial_evidence**). 
