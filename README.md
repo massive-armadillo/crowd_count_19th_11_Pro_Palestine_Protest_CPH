@@ -29,17 +29,16 @@
   * statistically independent---they are taken at different locations and points in time.
   * Gaussian distributed around its mean (1.2 +- 0.2 people/m^2).
 
-People density (people/m^2)		
+* People density (people/m^2) *		
 
-density_type		a	       b
-
-density_1	0,846560847	0,858085809				
-density_2	0,974652183	0,899825102	
-density_3	1,039492243	1,071932299				
-density_4	1,155309033	1,550847458				
-density_5	1,384518565	1,446559297				
-
-mean: 1,2   ;    std: 0,2
+|density_type| replicate_a |replicate_b |
+|density_lowest | 0,8465 |	0,8580	|
+| density_low|  0,9746	| 0,8998 |
+| density_mid |  1,0394	| 1,0719 |
+| density_high    |1,1553	| 1,5508 |	
+| density_highest | 1,3845 |	1,4465	|
+| mean:  | 1.11| 1.23| 
+| std: | 0.19 | 0.28|
 
 
 ## 
